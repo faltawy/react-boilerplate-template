@@ -16,7 +16,7 @@ function Index() {
   return (
     <div>
       <div>
-        <center>my bolierplate</center>
+        <center>my Boilerplate</center>
         <center>the packages</center>
         <div>
           {
